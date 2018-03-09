@@ -1,5 +1,8 @@
 # H-Dip-Computing-Data-Analytics
-Programming and Scripting Assignments
+Programming and Scripting Assignments using Python, which is a programming language that lets you work quickly
+and integrate systems more effectively. 
+
+
 # Exercise 1 & 2
 Calculate the right Fibonacci number for your own name
 Change the string variable to contain your own surname, and rerun it. 
