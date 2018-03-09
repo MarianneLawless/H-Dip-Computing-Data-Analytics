@@ -1,6 +1,6 @@
 # H-Dip-Computing-Data-Analytics @ GMIT, Galway
 ## Programming and Scripting Assignments using Python programming language.
-## The Python Tutorial, is an excellent resource containing all the required material necessary to gain a firm understading of Python.
+## The Python Tutorial, is an excellent resource containing all the required material necessary to gain a firm understanding of Python.
 ## Anaconda download is a great way to install Python and all of the common Python libraries on your computer. I recommend installing version 3.6, 64-bit
 ## Exercise 1 & 2
 ### Exercise 1, Basics of programming
