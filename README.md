@@ -1,13 +1,13 @@
 # Programming and Scripting Assignments using Python programming language.
 ## The Python Tutorial, is an excellent resource containing all the required material necessary to gain a firm understanding of Python.
-## Anaconda download is a great way to install Python and all of the common Python libraries on your computer. I recommend installing version 3.6, 64-bit
+## Anaconda download is a great way to install Python and all of the common Python libraries on your computer. I recommend installing version 3.6, 64-bit The Python interpreter and the extensive standard library are freely available in source or binary form for all major platforms from the Python Web site, https://www.python.org/, and may be freely distributed. The same site also contains distributions of and pointers to many free third party Python modules, programs and tools, and additional documentation.
 ## Exercise 1 & 2
 ### Exercise 1, Basics of programming
 In the video lectures this week we ran an example program that calculated the 30th Fibonacci number. Change the program to calculate the nth Fibonacci number where n the sum of the first and last letters of your first name as numbers. Take A as the number 1, B as 2, C as 3, and so on. For example, my name is Ian, so I should calculate the 25th Fibonacci number because I is 9 and n is 14, giving 25 in total. Once you calculate the right Fibonacci number for your own name
-### Excercise 2,State, variables and statements
+### Excercise 2, State, variables and statements
 Above is a link to a program I wrote that works similarly to last week's exercise. Copy and run the program yourself. Change the string variable to contain your own surname, and rerun it. Can you figure out what ord() does? Try to Google it to find out. Post the output of the program, along with any insight you have as to what ord() does, to the discussions forum.
 
-### Exercise 3 Conditions, loops and flow control 
+### Exercise 3, Conditions, loops and flow control 
 #### Collatz Conjecture
 Complete the exercise discussed in the Collatz conjecture video by writing a single Python script that starts with an integer and repeatedly applies the Collatz function (divide by 2 if even, multiply by three and 1 if odd) using a while loop and if statement. At each iteration, the current value of the integer should be printed to the screen. You can specify in your code the starting value of 17. If you wish to ehance your program, have the program ask the user for the integer instead of specifying a value at the start of your code. 
 ### Exercise 4, Lists and For loops
