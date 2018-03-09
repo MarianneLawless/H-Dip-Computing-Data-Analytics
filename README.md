@@ -1,7 +1,6 @@
 # Programming and Scripting Assignments using Python programming language.
-## The Python Tutorial, is an excellent resource containing all the required material necessary to gain a firm understanding of Python.
-## Anaconda download is a great way to install Python and all of the common Python libraries on your computer. I recommend installing version 3.6, 64-bit. https://www.python.org/, 
-## Exercise 1 & 2
+### The Python Tutorial, is an excellent resource containing all the required material necessary to gain a firm understanding of Python.
+### Anaconda download is a great way to install Python and all of the common Python libraries on your computer. I recommend installing version 3.6, 64-bit. https://www.python.org/ 
 ### Exercise 1, Basics of programming
 In the video lectures this week we ran an example program that calculated the 30th Fibonacci number. Change the program to calculate the nth Fibonacci number where n the sum of the first and last letters of your first name as numbers. Take A as the number 1, B as 2, C as 3, and so on. For example, my name is Ian, so I should calculate the 25th Fibonacci number because I is 9 and n is 14, giving 25 in total. Once you calculate the right Fibonacci number for your own name
 ### Excercise 2, State, variables and statements
