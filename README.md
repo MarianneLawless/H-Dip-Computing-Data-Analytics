@@ -1,4 +1,4 @@
-# H-Dip-Computing-Data-Analytics
+# H-Dip-Computing-Data-Analytics.
 ## Programming and Scripting Assignments using Python programming language.
 ## The Python Tutorial,This is the official Python tutorial. It is an excellent resource containing all the required material necessary to gain a firm understading of Python.
 ## Anaconda download, This is the download page for the Anaconda Python distribution. This is a great way to install Python and all of the common Python libraries on your computer. I recommend installing version 3.6, 64-bit
