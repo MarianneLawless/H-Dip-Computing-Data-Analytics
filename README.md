@@ -1,7 +1,7 @@
-# H-Dip-Computing-Data-Analytics.
+# H-Dip-Computing-Data-Analytics @ GMIT, Galway
 ## Programming and Scripting Assignments using Python programming language.
-## The Python Tutorial,This is the official Python tutorial. It is an excellent resource containing all the required material necessary to gain a firm understading of Python.
-## Anaconda download, This is the download page for the Anaconda Python distribution. This is a great way to install Python and all of the common Python libraries on your computer. I recommend installing version 3.6, 64-bit
+## The Python Tutorial, is an excellent resource containing all the required material necessary to gain a firm understading of Python.
+## Anaconda download is a great way to install Python and all of the common Python libraries on your computer. I recommend installing version 3.6, 64-bit
 ## Exercise 1 & 2
 ### Exercise 1, Basics of programming
 In the video lectures this week we ran an example program that calculated the 30th Fibonacci number. Change the program to calculate the nth Fibonacci number where n the sum of the first and last letters of your first name as numbers. Take A as the number 1, B as 2, C as 3, and so on. For example, my name is Ian, so I should calculate the 25th Fibonacci number because I is 9 and n is 14, giving 25 in total. Once you calculate the right Fibonacci number for your own name
