@@ -2,7 +2,7 @@
 # Programming & Scripting Exercise 3
 # Adapted from https://en.wikipedia.org/wiki/Collatz_conjecture
 
-n = 4 # value of n 
+n = 17 # value of n 
 
 while n <= 1: # while n is less than or equal to 1
     if (n % 2 == 0): # if n is an even number, do the following 
