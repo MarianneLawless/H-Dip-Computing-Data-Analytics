@@ -1,2 +1,9 @@
-with open("data/iris.csv") as f:
-  print(f.read)
+# Marianne Lawless
+# Exercise 5 
+# Iris dataset downloaded from https://archive.ics.uci.edu/ml/datasets/iris
+
+with open("data/iris.csv") as f: #Open the file and automatically close 
+  for line in f: #loops through each line in the file
+    print('{:4} {:4} {:4} {:4}'.format(line.split(',')[0], line.split(',')[1], line.split(',')[2], line.split(',')[3]))
+    
+    
