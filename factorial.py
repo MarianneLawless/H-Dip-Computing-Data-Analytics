@@ -12,3 +12,7 @@ def factorial(f): # Function defined as factorial (f)
 print("The factorial of 5 is", factorial(5))
 print("The factorial of 7 is", factorial(7))
 print("The factorial of 10 is", factorial(10))
+
+The factorial of 5 is 120
+The factorial of 7 is 5040
+The factorial of 10 is 3628800
